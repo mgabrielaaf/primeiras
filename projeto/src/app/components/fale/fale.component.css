@@ -1,0 +1,42 @@
+.example-form {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  border-top: white;
+  margin-left: 2px;
+}
+
+
+
+.a{
+  margin-top: 10px;
+
+
+}
+
+.b{
+  margin-top: 10px;
+
+}
+
+.c{
+  margin-top:20px;
+  width: 70vw;
+  height:80px;
+  margin-left: 2px;
+}
+
+p{
+  text-align: start;
+  margin: 2px;
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+button{
+  background-color:#8A2BE2 ;
+  color: white;
+  margin-left: 5px;
+}
